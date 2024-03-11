@@ -1,0 +1,1 @@
+trojan://3367e5f0-0ff9-11ee-8053-1239d0255272@beacon.liveon.id:443/?sni=id-1.test3.net&type=ws&host=id-1.test3.net&path=%2Fhowdy
